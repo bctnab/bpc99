@@ -3,11 +3,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Github主页美化](https://www.bipch.cn/use-github-styles/)
-- [vercel](https://www.bipch.cn/vercel/)
-- [Hexo多种部署方式](https://www.bipch.cn/hexo-aliyun/)
-- [pm2 + Nginx 部署 Koa2](https://www.bipch.cn/linux-pm2-nginx-Koa2/)
-- [react导航守卫](https://www.bipch.cn/react-router/)
+- [Es6-Es12新特性](https://bipch.cn/es6-es12/)
+- [Github主页美化](https://bipch.cn/use-github-styles/)
+- [vercel](https://bipch.cn/vercel/)
+- [Hexo多种部署方式](https://bipch.cn/hexo-aliyun/)
+- [pm2 + Nginx 部署 Koa2](https://bipch.cn/linux-pm2-nginx-Koa2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow Me
