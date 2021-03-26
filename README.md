@@ -3,11 +3,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP缓存](https://bipch.cn/http-cache/)
 - [虚拟DOM](https://bipch.cn/virtual-dom/)
 - [CSRF](https://bipch.cn/csrf/)
 - [Redux对比Mobx](https://bipch.cn/redux-mobx/)
 - [Token登陆认证](https://bipch.cn/token/)
-- [JavaScript原型链](https://bipch.cn/prototype-chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow Me
