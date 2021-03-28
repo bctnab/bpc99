@@ -4,10 +4,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [HTTP缓存](https://bipch.cn/http-cache/)
+- [有趣面试问题](https://bipch.cn/interview/)
 - [虚拟DOM](https://bipch.cn/virtual-dom/)
 - [CSRF](https://bipch.cn/csrf/)
 - [Redux对比Mobx](https://bipch.cn/redux-mobx/)
-- [Token登陆认证](https://bipch.cn/token/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow Me
